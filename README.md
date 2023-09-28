@@ -3,8 +3,7 @@
 ## Description:
 Exploring Docker fundamentals through hands-on learning
 
-## What I Learned:
-Concepts:
+## Concepts learnt:
 - Relationship and mechanism of images and containers
 - Utilising port binding to properly access containers
 - Storage of images in repositories (public and private)
