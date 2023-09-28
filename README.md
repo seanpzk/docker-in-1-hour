@@ -3,7 +3,7 @@
 ## Description:
 Exploring Docker fundamentals through hands-on learning
 
-## Concepts learnt:
+## Learnings:
 - Relationship and mechanism of images and containers
 - Utilising port binding to properly access containers
 - Storage of images in repositories (public and private)
@@ -16,6 +16,8 @@ I applied the Docker knowledge gained from this tutorial to another project, spe
 ## Acknowledgments:
 Thank you [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) for the free course!
 
+<br>
+<br>
 
 # README content from the original project below!
 This is an accompaying demo project for a "Docker in 1 hour" crash course on YouTube: https://www.youtube.com/@TechWorldwithNana
